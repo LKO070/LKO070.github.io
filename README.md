@@ -1,2 +1,1 @@
-# LKO070.github.io
-Portfolio
+Loek Ota Portfolio
